@@ -1,4 +1,5 @@
 ### Hi there 👋
+Me gusta la programacion, soy aprendiz de c++, estudiante de ing. de sistemas.
 
 <!--
 **JesusPQ10/JesusPQ10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
